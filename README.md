@@ -1,9 +1,6 @@
 <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
   <img src="https://raw.githubusercontent.com/swapnil-dot/images/master/sonar.png"  height="65" />
 </a>
-<a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-  <img src="http://localhost:9000/api/project_badges/quality_gate?project=new"  height="65" />
-</a>
 
 
 # Sonarqube
